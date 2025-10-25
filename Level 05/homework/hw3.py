@@ -1,0 +1,12 @@
+#1)დაწერეთ კოდი, სადაც მომხმარებელს მოთხოვთ ინფორმაციას მათ შესახებ: სახელი, გვარი, ასაკი, შემდეგ ეს ინფორმაცია გამოიტანეთ როგორც რამე დოკუმენტი, მაგალითად პასპორტი (თითქოს მთავრობის პროგრამაა) 
+name=input("name:")
+last_name=input("last name:")
+age=int(input("age:"))
+date_of_birth=input("date of birth:")
+
+print("==========================")
+print("name:",name)
+print("last name:",last_name)
+print("age:",age)
+print("date of birth:",date_of_birth)
+print("===========================")
