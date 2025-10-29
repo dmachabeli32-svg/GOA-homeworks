@@ -12,4 +12,9 @@ rain=input("is it rain?:")
 
 if temp > 25 and rain == "no":
     print("shesanishnavi amindia saseirnod")
-    
+elif temp > 25 and rain == "yes":
+    print("cxeli da wvimiania, chafxuti dagwirdeba! ")
+elif temp < 10 or rain == "yes":
+    print("jobia saxshi darche")
+else:
+    print("sasiamovno amindia")
