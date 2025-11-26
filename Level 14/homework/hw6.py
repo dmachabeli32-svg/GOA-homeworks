@@ -7,7 +7,7 @@ while True:
     if num == "gamotvale sashualo":
         break
     if num.isdigit():
-        i==int(num)
+        i+=int(num)
         count=count+1
     else:
         print("sheiyvanet ricxvi an gamotvalet sashualo")
