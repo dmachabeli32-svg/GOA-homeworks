@@ -7,7 +7,7 @@ index = int(input("enter your index:"))
 
 if 0 <= index < len(nums):
     nums.insert(index, num)  
-    print("რიცხვი დაემატა ინდექსზე {index}.")
+    print("რიცხვი დაემატა ინდექსზე")
 else:
     nums.append(num)  
     print("რიცხვი დაემატა სიაში ბოლოს.")
