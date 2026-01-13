@@ -1,0 +1,16 @@
+h1, h3 {
+    color: white;
+    background-color: blue;
+}
+
+p {
+    color: green;
+}
+
+button {
+    width: 77px;
+    height: 77px;
+    background-color: red;
+    color: white;
+    border: none;
+}
