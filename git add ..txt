@@ -4,3 +4,9 @@ git push
 
 video downloader
 https://ytmp4.biz/
+
+for i in animals:
+    count = len(i)
+count = len(word,word1,word2,word3,word4)
+    if c >= 5:
+    animals1.append(i.capitalize())
