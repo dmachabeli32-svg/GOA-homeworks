@@ -1,0 +1,28 @@
+.same {
+    color: red;
+    font-size: 18px;
+}
+
+.one {
+    color: blue;
+}
+
+.two {
+    color: green;
+    font-weight: bold;
+}
+
+.three {
+    color: purple;
+    background-color: lightgray;
+}
+
+.four {
+    color: orange;
+    text-decoration: underline;
+}
+
+.five {
+    color: brown;
+    font-style: italic;
+}

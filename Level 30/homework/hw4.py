@@ -5,13 +5,13 @@
 #  გამოიყენეთ while ციკლი.
 
 text = "DraChun"
-cariel = []
+empty = []
 
 i = 0
 while i < len(text):
     if text[i].isupper():
-        cariel.append(text[i].lower())
+        empty.append(text[i].lower())
     else:
-        cariel.append(text[i].upper())
+        empty.append(text[i].upper())
     i += 1
-print(cariel)
+print(empty)

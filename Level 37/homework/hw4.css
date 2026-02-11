@@ -1,0 +1,19 @@
+#redDiv {
+  width: 100px;                  
+  height: 100px;                   
+  background-color: rgb(255, 0, 0); 
+}
+
+
+#greenDiv {
+  width: 100px;           
+  height: 100px;                    
+  background-color: rgb(0, 255, 0);
+}
+
+
+#blueDiv {
+  width: 100px;                
+  height: 100px;                   
+  background-color: rgb(0, 0, 255);
+}

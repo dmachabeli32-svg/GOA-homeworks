@@ -1,0 +1,12 @@
+p.box{
+    color: red;
+    font-size: 20px;
+}
+button.box{
+    color: green;
+    font-size: 40px;
+}
+h3.box{
+    color: blue;
+    background-color: yellow;
+}
