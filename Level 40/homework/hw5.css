@@ -1,0 +1,6 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200..700&display=swap');
+section h1{
+    color: blue;
+    font-family: "Oswald", sans-serif;
+    text-shadow:0px 5px 1px black;
+}

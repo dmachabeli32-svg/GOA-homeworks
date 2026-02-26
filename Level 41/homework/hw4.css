@@ -1,0 +1,6 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200..700&display=swap');
+li:hover{
+    background-color:green;
+    text-transform: uppercase;
+    font-family: "Oswald", sans-serif;
+}

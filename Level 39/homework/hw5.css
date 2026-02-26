@@ -1,0 +1,18 @@
+p{
+    text-shadow: 0px 3px 3px black;
+}
+#p2{
+    color: gray;
+    text-shadow: 1px -1px 1px gray;
+}
+#p3{
+    color: rgb(255, 0, 208);
+    text-shadow: 1px 1px 1px blue;
+}
+#p4{
+    color: white;
+    text-shadow: 0px 0px 5px green;
+}
+#p5{
+    text-shadow: 0px 0px 1px rgb(2, 253, 2);
+}
