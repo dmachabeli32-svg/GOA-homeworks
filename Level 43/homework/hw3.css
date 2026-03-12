@@ -1,0 +1,45 @@
+th,td{
+    border: 1px solid black;
+}
+table{
+    border-collapse: collapse;
+}
+.second{
+    color: blue;
+}
+.first{
+    background-color: rgb(218, 194, 98);
+}
+#yellow{
+    background-color: yellow;
+}
+#orange{
+    background-color: orange;
+}
+#green{
+    background-color: green;
+}
+#pink{
+    background-color: pink;
+}
+#red{
+    background-color: red;
+}
+#white{
+    background-color: white;
+}
+#blue{
+    background-color: blue;
+}
+#table{
+    background-color: rgb(230, 160, 69);
+}
+#gray{
+    background-color: gray;
+}
+#brown{
+    background-color: brown;
+}
+#animals{
+    background-color: rgb(196, 165, 88);
+}

@@ -1,0 +1,7 @@
+label{
+    color: rgb(86, 139, 255);
+}
+input{
+    box-shadow: -1px 1px 8px;
+    border: 1px solid black;
+}

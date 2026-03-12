@@ -1,0 +1,12 @@
+#zeros{
+    list-style: decimal-leading-zero;
+}
+#geo{
+    list-style: georgian;
+}
+#rom{
+    list-style: upper-roman;
+}
+#en{
+    list-style: lower-alpha;
+}

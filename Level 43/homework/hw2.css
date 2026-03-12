@@ -1,0 +1,9 @@
+td,th{
+    border: 1px solid cyan;
+}
+th{
+    background-color: cyan;
+}
+table{
+    border-collapse: collapse;
+}

@@ -1,0 +1,10 @@
+body{
+    background-color: cyan;
+}
+label{
+    color: white;
+}
+input{
+    border-radius: 30px;
+    border: none;
+}
