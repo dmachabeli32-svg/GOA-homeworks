@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container {
+    display: flex;
+    gap: 10px;
+}
+
+.item {
+    padding: 20px;
+    color: white;
+    text-align: center;
+}
+
+.one {
+    flex-basis: 100px;
+    background-color: red;
+}
+
+.two {
+    flex-basis: 200px;
+    background-color: green;
+}
+
+.three {
+    flex-basis: 300px;
+    background-color: blue;
+}
+
+.four {
+    flex-basis: 150px;
+    background-color: orange;
+}

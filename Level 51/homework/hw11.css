@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container{
+    width: 400px;
+    height: 600px;
+    border: 1px solid red;
+    display: flex;
+}
+.item{
+    height: 100px;
+    flex-basis: 200px;
+    background-color: blue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#item2{
+    flex-shrink: 50;
+}

@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container {
+  display: flex;
+  width: 500px; 
+  border: 1px solid black;
+}
+
+.item {
+  flex-basis: 250px; 
+  padding: 20px;
+  text-align: center;
+  color: white;
+}
+
+
+.one {
+  flex-shrink: 0; 
+  background-color: red;
+}
+
+.two {
+  flex-shrink: 2; 
+  background-color: green;
+}
+
+.three {
+  flex-shrink: 3; 
+  background-color: blue;
+}

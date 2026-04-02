@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container {
+    border: 1px solid red;
+    width: 400px;
+    height:400px ;
+    display: flex;
+}
+
+.item {
+    height: 40px;
+    width: 40px;
+    padding: 20px;
+    border: 1px solid black;
+    background-color: blue;
+}
+
+.item:hover {
+     background-color: lightgray;
+}
+
+
+.third:hover {
+     flex-grow: 1;
+}

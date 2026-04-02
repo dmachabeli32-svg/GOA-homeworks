@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container {
+  display: flex;
+  gap: 10px;
+}
+
+.item {
+  flex: 1 0 150px; 
+  padding: 20px;
+  text-align: center;
+  background-color: lightblue;
+}

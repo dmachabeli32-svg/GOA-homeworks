@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container {
+  display: flex;
+  gap: 10px;
+  width: 600px; 
+  border: 1px solid black;
+}
+
+.item1 {
+  flex: 0 0 200px;
+  background-color: red;
+  color: white;
+  text-align: center;
+  padding: 20px;
+}
+
+.item2 {
+  flex: 1 0 0; 
+  background-color: blue;
+  color: white;
+  text-align: center;
+  padding: 20px;
+}

@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.parent{
+    height: 300px;
+    width: 500px;
+    border: 1px solid red;
+    display: flex;
+    gap: 10px;
+}
+
+.child{
+    background-color: blue;
+    color: white;
+    height: 50px;
+    width: 100px;
+}
+#item2{
+    flex-grow: 1;
+}

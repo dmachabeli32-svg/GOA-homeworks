@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.parent{
+    border: 5px solid black;
+    width: 400px;
+    height: 700px;
+    display: flex;
+    flex-wrap: wrap;
+}
+.child{
+    width: 120px;
+    height: 100px;
+    background-color: blue;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

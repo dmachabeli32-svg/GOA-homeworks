@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: rgb(40, 175, 216);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.parent{
+    margin-top: 50px;
+    border: 1px solid none;
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+    padding: 30px;
+    gap: 7px;
+}
+p{
+    color:rgb(40, 175, 216) ;
+}
+#username, #password{
+    border-radius: none;
+}
+#submit{
+    background-color:rgb(40, 175, 216);
+    border: none;
+    color: white;
+    height: 20px;
+}

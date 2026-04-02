@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.parent{
+    background-color: purple;
+    height: 300px;
+    width: 300px;
+    display: flex;
+    justify-content: space-between;
+}
+.child{
+    background-color: orange;
+    border: 1px solid;
+    border-radius: 5px;
+    display: flex;
+    align-items: center ;
+    justify-content: center;
+}
+#item1{
+    height: 40px;
+    width: 80px;
+}
+#item2{
+    height: 40px;
+    width: 40px;
+}
+#item3{
+    height: 40px;
+    width: 80px;
+}

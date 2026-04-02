@@ -1,0 +1,19 @@
+div{
+    display: flex;
+    flex-direction: row; 
+    /* row: ელემენტები განლაგდება ჰორიზონტალურად (მარცხნიდან მარჯვნივ) */
+
+    border: 2px solid black;
+}
+button{
+    width: 80px;
+    height: 80px;
+    background-color: lightblue;
+    border: 1px solid blue;
+}
+
+/* div{
+    display: flex;
+    flex-direction: column; 
+    column: ელემენტები განლაგდება ვერტიკალურად (ზემოდან ქვემოთ) 
+} */

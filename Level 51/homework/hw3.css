@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.parent{
+    height: 300px;
+    width: 300px;
+    border: 1px solid red;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.child{
+    background-color: blue;
+    color: white;
+}
+#item1{
+    align-self: flex-end;
+}
+#item2{
+    align-self: start;
+}
+#item3{
+    align-self: center;
+}
+item4{
+    align-items: normal;
+}

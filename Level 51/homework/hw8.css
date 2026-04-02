@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container {
+  display: flex;
+  gap: 10px;
+}
+.item {
+  padding: 30px;
+  color: white;
+  text-align: center;
+}
+.one {
+  flex-basis: 150px;
+  background-color: red;
+}
+.two {
+  flex-basis: 150px;
+  background-color: green;
+}
+.three {
+  flex-basis: 150px;
+  background-color: blue;
+}

@@ -1,0 +1,14 @@
+#parent{
+    border: 1px solid red;
+    height: 600px;
+    width: 600px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.child{
+    background-color: purple;
+    height: 60px;
+    width: 60px;
+
+}
